@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HealthFinder/static/css/main.baffa87a.css",
+    "main.js": "/HealthFinder/static/js/main.f2fb7c65.js",
+    "index.html": "/HealthFinder/index.html",
+    "main.baffa87a.css.map": "/HealthFinder/static/css/main.baffa87a.css.map",
+    "main.f2fb7c65.js.map": "/HealthFinder/static/js/main.f2fb7c65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baffa87a.css",
+    "static/js/main.f2fb7c65.js"
+  ]
+}
