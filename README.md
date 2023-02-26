@@ -20,11 +20,12 @@ I used units like percentages and rems to adjust font sizes and element dimensio
 In addition, I used Google's Mobile-Friendly Test to check for any issues and ensure that the website meets mobile-friendly standards.
 
 ## Accessibility for People with Disabilities
-To make the app accessible to people with disabilities, I made sure to include descriptive alt text for images, added ARIA attributes to improve screen reader compatibility, and used high-contrast colors to make the content more visible for users with colorblindness. 
+To make the app accessible to people with disabilities, I made sure to include descriptive alt text for images, added ARIA attributes to improve screen reader compatibility. 
 Additionally, I made sure that the website can be navigated using keyboard-only navigation to accommodate users who rely on keyboard navigation or screen readers.
 
 ## Improvements for the Project
-If I could make further changes to my project to improve the experience, I would add more filters and sorting options to the search results, as well as provide a way for users to save their search results or share them with others. 
+If I could make further changes to my project to improve the experience, I would add more filters and sorting options to the search results, as well as provide a way for users to save their search results or share them with others.
+I would like to use high-contrast colors to make the content more visible for users with colorblindness.
 Additionally, I would like to incorporate user feedback and ratings to help improve the relevance and accuracy of the search results. 
 To implement these changes, I would need to work on the back-end code to handle user authentication, data storage, and retrieval.
 
