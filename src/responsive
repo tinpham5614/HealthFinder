@@ -1,0 +1,48 @@
+/* Small screens  */
+@media (max-width: 576px) {
+  .search-area {
+    flex-direction: column;
+  }
+
+  .search-bar {
+    margin-bottom: 10px;
+  }
+
+  .search-button {
+    font-size: 10px;
+  }
+}
+
+/* Medium screens */
+@media (min-width: 576px) and (max-width: 992px) {
+  .search-area {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .search-bar {
+    flex-basis: 100%;
+    margin-right: 10px;
+  }
+
+  .search-button {
+    font-size: 15px;
+  }
+}
+
+/* Big screens */
+@media (min-width: 992px) {
+  .search-area {
+    flex-direction: row;
+  }
+
+  .search-bar {
+    flex-basis: 50%;
+    margin-right: 10px;
+  }
+
+  .search-button {
+    font-size: 20px;
+  }
+}

@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import SearchArea from "./components/SearchArea";
 import ResultsArea from "./components/ResultsArea";
 import "./styles.css";
+import "./responsive.css"
 
 export default function App() {
   const [resources, setResources] = useState([]);
