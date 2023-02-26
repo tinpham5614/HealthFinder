@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/HealthFinder/static/css/main.e79f548a.css",
+    "main.css": "/HealthFinder/static/css/main.c8982add.css",
     "main.js": "/HealthFinder/static/js/main.f2fb7c65.js",
     "index.html": "/HealthFinder/index.html",
-    "main.e79f548a.css.map": "/HealthFinder/static/css/main.e79f548a.css.map",
+    "main.c8982add.css.map": "/HealthFinder/static/css/main.c8982add.css.map",
     "main.f2fb7c65.js.map": "/HealthFinder/static/js/main.f2fb7c65.js.map"
   },
   "entrypoints": [
-    "static/css/main.e79f548a.css",
+    "static/css/main.c8982add.css",
     "static/js/main.f2fb7c65.js"
   ]
 }
